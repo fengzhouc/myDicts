@@ -1,3 +1,4 @@
+/mailman/listinfo
 /SUSF/sy!query
 /user!save
 ﻿/api/v1/
