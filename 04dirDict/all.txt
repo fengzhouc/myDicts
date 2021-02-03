@@ -1,3 +1,4 @@
+/server-status
 /mailman/listinfo
 /SUSF/sy!query
 /user!save
