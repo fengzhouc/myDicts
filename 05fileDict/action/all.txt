@@ -1,3 +1,16 @@
+viewpage.action
+/pages/viewpage.action
+browse-macros.action
+/plugins/macrobrowser/browse-macros.action
+naturalchildren.action
+/plugins/pagetree/naturalchildren.action
+editor.action
+/plugins/editor-loader/editor.action
+csvExportAction!getExportFinishedFlag.action
+/techcomp/ria/csvExportAction!getExportFinishedFlag.action
+.actionScriptProperties
+/lib/flex/uploader/.actionScriptProperties
+/lib/flex/varien/.actionScriptProperties
 /Sm_index.action
 /findPassword.action
 /jumpFindPwd.action

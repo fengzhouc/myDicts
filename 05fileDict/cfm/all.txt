@@ -1,3 +1,19 @@
+admin.cfm
+/admin.cfm
+admin2.cfm
+/admin2.cfm
+adminPeople.cfm
+/adminPeople.cfm
+cfexec.cfm
+/cfexec.cfm
+index.cfm
+/cfide/administrator/index.cfm
+settings.ini.cfm
+/config/settings.ini.cfm
+file_upload.cfm
+/file_upload.cfm
+getFile.cfm
+/getFile.cfm
 cfdocs/cfmlsyntaxcheck.cfm
 cfdocs/exampleapp/docs/sourcewindow.cfm
 cfdocs/exampleapp/email/application.cfm
@@ -342,7 +358,6 @@ program/gpyedit/fckeditor.cfm
 /cfdocs/snippets/viewexample.cfm
 /cfdocs/toxic.cfm
 /cfdocs/zero.cfm
-/cfide/administrator/index.cfm
 CFIDE/administrator/aboutcf.cfm
 CFIDE/administrator/Application.cfm
 CFIDE/administrator/checkfile.cfm
